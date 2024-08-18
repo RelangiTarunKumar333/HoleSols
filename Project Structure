@@ -1,0 +1,15 @@
+/HoleSols
+├── /src
+│   ├── main_code.ino        # Arduino code for IoT sensors
+│   ├── sensor_logic.py      # Python script for data processing
+├── /hardware
+│   ├── circuit_diagram.png  # Circuit diagram for the prototype
+│   ├── block_diagram.png    # System block diagram
+├── /docs
+│   ├── AICTE_HOLESOLS.pptx  # Presentation for AICTE's The Inventors Challenge
+│   ├── HoleSols_Ideathon_Template.pptx # Ideathon presentation template
+│   ├── HoleSols_Manhole_detection_and_monitoring_system.pptx # Detailed project presentation
+├── /media
+│   ├── prototype_demo.mp4   # Implementation video of the working prototype
+│   ├── manhole_detection.jpg # Images of the prototype
+└── README.md
