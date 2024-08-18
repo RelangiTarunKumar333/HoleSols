@@ -1,0 +1,12 @@
+## Installation
+
+To run this project, you'll need to install the following libraries through the Arduino Library Manager:
+
+1. **ESP8266/ESP32 WiFi Library**: Search for "ESP8266" or "ESP32" in the Library Manager and install the appropriate WiFi library.
+2. **Firebase ESP Client**: 
+   - Install via the Arduino Library Manager, or download it from [here](https://github.com/mobizt/Firebase-ESP-Client).
+3. **ArduinoJson**: Install via the Arduino Library Manager.
+4. **Ultrasonic Sensor Library** (if applicable): Install via the Arduino Library Manager.
+5. **Adafruit Sensor Library** (if applicable): Install via the Arduino Library Manager.
+
+Ensure your Arduino IDE is up to date and your board settings are correctly configured for ESP8266 or ESP32.
