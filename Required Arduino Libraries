@@ -1,0 +1,22 @@
+# Required Arduino Libraries
+
+1. **ESP8266/ESP32 WiFi Library**
+   - For ESP32: `WiFi.h`
+   - For ESP8266: `ESP8266WiFi.h`
+   - Install from: Arduino Library Manager
+
+2. **Firebase ESP Client**
+   - Handles communication with Firebase Realtime Database
+   - Install from: [Firebase ESP Client](https://github.com/mobizt/Firebase-ESP-Client)
+
+3. **Ultrasonic Sensor Library** (if applicable, depending on the sensor used)
+   - Handles reading distance from ultrasonic sensors
+   - Install from: Arduino Library Manager or from source
+
+4. **ArduinoJson**
+   - Used for parsing JSON data
+   - Install from: Arduino Library Manager
+
+5. **Adafruit Sensor Library** (if applicable)
+   - Provides unified sensor APIs for sensor handling
+   - Install from: Arduino Library Manager
